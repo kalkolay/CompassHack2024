@@ -1,0 +1,3 @@
+[submodule "nft-minter"]
+	path = nft-minter
+	url = https://github.com/kalkolay/nft-minter
