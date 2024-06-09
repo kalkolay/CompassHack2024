@@ -1,6 +1,6 @@
 # CompassHack2024
 
-Team: **Digital AI Creators**
+Team: **AI Digital Creators**
 
 Track: **YaLLa Esports**
 
